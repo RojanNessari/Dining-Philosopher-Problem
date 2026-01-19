@@ -1,4 +1,4 @@
-package src.core;
+package core;
 /**
  * Class Monitor
  * To synchronize dining philosophers.
