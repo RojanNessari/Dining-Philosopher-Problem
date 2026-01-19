@@ -54,39 +54,6 @@ All constraints are enforced using a **Monitor synchronization construct** built
 
 ---
 
-## 📂 Project Structure
-Dining-Philosopher-Problem/
-│
-├── README.md                # Project description and documentation
-├── .gitignore               # Ignore compiled files and editor configs
-│
-├── src/
-│   ├── common/              # Shared thread abstractions
-│   │   └── BaseThread.java
-│   │
-│   ├── core/                # Core synchronization logic
-│   │   ├── DiningPhilosophers.java
-│   │   ├── Philosopher.java
-│   │   └── Monitor.java
-│   │
-│   └── module-info.java     # Java module definition (if required)
-│
-├── tasks/
-│   ├── task-1/
-│   │   └── output.txt       # Sample output for Task 1
-│   │
-│   ├── task-2/
-│   │   └── output.txt       # Sample output for Task 2
-│   │
-│   └── task-3/
-│
-├── Makefile                 # Build and run automation
-│
-└── docs/
-    └── screenshots/         # Optional: outputs or diagrams
-
-
----
 
 ## ✅ What This README Does Well
 
