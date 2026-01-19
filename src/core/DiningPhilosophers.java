@@ -1,4 +1,4 @@
-package Package;
+package src.core;
 
 
 public class DiningPhilosophers

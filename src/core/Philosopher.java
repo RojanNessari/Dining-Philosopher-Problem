@@ -1,6 +1,6 @@
-package Package;
+package src.core; // Updated package declaration
 
-import common.BaseThread;
+import src.common.BaseThread; // Updated import statement
 
 /**
  * Class Philosopher.
