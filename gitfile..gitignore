@@ -1,0 +1,8 @@
+# Compiled Java files
+*.class
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store

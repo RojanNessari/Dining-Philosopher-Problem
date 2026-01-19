@@ -1,0 +1,381 @@
+
+C:\Users\ypers\eclipse-workspace\Comp346_Assignment_3\src>java Package.DiningPhilosophers 5
+5 philosopher(s) came in for a dinner.
+Philosopher 1 picks up chopsticks.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 1 starts eating.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 5 picks up chopsticks.
+Philosopher 5 starts eating.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 4 finishes thinking.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 5 starts thinking.
+Philosopher 1 finishes thinking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 2 finishes thinking.
+Philosopher 5 finishes thinking.
+Philosopher is now talking.
+Philosopher 5 starts talking.
+Philosopher 5 says: You know, true is false and false is true if you think of it
+Philosopher 5 finishes talking.
+Philosopher has finished talking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 3 starts thinking.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 3 finishes thinking.
+Philosopher is now talking.
+Philosopher 3 starts talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 finishes talking.
+Philosopher has finished talking.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 1 starts thinking.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 5 picks up chopsticks.
+Philosopher 5 starts eating.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 5 starts thinking.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 2 starts thinking.
+Philosopher 1 finishes thinking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 4 finishes thinking.
+Philosopher is now talking.
+Philosopher 4 starts talking.
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 finishes talking.
+Philosopher has finished talking.
+Philosopher 5 finishes thinking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 3 starts thinking.
+Philosopher 2 finishes thinking.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 5 picks up chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 5 starts eating.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 5 starts thinking.
+Philosopher 1 finishes thinking.
+Philosopher is now talking.
+Philosopher 1 starts talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 finishes talking.
+Philosopher has finished talking.
+Philosopher 3 finishes thinking.
+Philosopher is now talking.
+Philosopher 3 starts talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 finishes talking.
+Philosopher has finished talking.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 2 starts thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 2 finishes thinking.
+Philosopher 5 finishes thinking.
+Philosopher 4 finishes thinking.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 5 picks up chopsticks.
+Philosopher 5 starts eating.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 2 picks up chopsticks.
+Philosopher 3 starts thinking.
+Philosopher 2 starts eating.
+Philosopher 1 finishes thinking.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 5 starts thinking.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 3 finishes thinking.
+Philosopher 5 finishes thinking.
+Philosopher 1 finishes thinking.
+Philosopher is now talking.
+Philosopher 1 starts talking.
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 finishes talking.
+Philosopher has finished talking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 2 finishes thinking.
+Philosopher is now talking.
+Philosopher 2 starts talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 finishes talking.
+Philosopher has finished talking.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 5 picks up chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 5 starts eating.
+Philosopher 1 finishes thinking.
+Philosopher 4 finishes thinking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 3 starts thinking.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 3 finishes thinking.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 5 starts thinking.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 5 finishes thinking.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 2 finishes thinking.
+Philosopher is now talking.
+Philosopher 2 starts talking.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 finishes talking.
+Philosopher has finished talking.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 5 picks up chopsticks.
+Philosopher 5 starts eating.
+Philosopher 1 starts thinking.
+Philosopher 1 finishes thinking.
+Philosopher 4 finishes thinking.
+Philosopher is now talking.
+Philosopher 4 starts talking.
+Philosopher 4 says: My number is 4
+Philosopher 4 finishes talking.
+Philosopher has finished talking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 3 starts thinking.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 5 starts thinking.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 3 finishes thinking.
+Philosopher 5 finishes thinking.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 4 finishes thinking.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 5 picks up chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 5 starts eating.
+Philosopher 2 finishes thinking.
+Philosopher 1 finishes thinking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 3 starts thinking.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 5 starts thinking.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 3 finishes thinking.
+Philosopher 5 finishes thinking.
+Philosopher is now talking.
+Philosopher 5 starts talking.
+Philosopher 5 says: If thee cannot speak, thee must be silent
+Philosopher 5 finishes talking.
+Philosopher has finished talking.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 4 finishes thinking.
+Philosopher is now talking.
+Philosopher 4 starts talking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 finishes talking.
+Philosopher has finished talking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 4 picks up chopsticks.
+Philosopher 3 starts thinking.
+Philosopher 4 starts eating.
+Philosopher 2 finishes thinking.
+Philosopher is now talking.
+Philosopher 2 starts talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 finishes talking.
+Philosopher has finished talking.
+Philosopher 3 finishes thinking.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 5 picks up chopsticks.
+Philosopher 5 starts eating.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 5 starts thinking.
+Philosopher 4 finishes thinking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 3 starts thinking.
+Philosopher 1 finishes thinking.
+Philosopher is now talking.
+Philosopher 1 starts talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 finishes talking.
+Philosopher has finished talking.
+Philosopher 1 picks up chopsticks.
+Philosopher 1 starts eating.
+Philosopher 1 finishes eating.
+Philosopher 1 puts down chopsticks.
+Philosopher 1 starts thinking.
+Philosopher 5 finishes thinking.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 5 picks up chopsticks.
+Philosopher 5 starts eating.
+Philosopher 4 starts thinking.
+Philosopher 2 finishes thinking.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 4 finishes thinking.
+Philosopher 1 finishes thinking.
+Philosopher is now talking.
+Philosopher 1 starts talking.
+Philosopher 1 says: My number is 1
+Philosopher 1 finishes talking.
+Philosopher has finished talking.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 4 picks up chopsticks.
+Philosopher 4 starts eating.
+Philosopher 5 starts thinking.
+Philosopher 3 finishes thinking.
+Philosopher 2 finishes thinking.
+Philosopher is now talking.
+Philosopher 2 starts talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 finishes talking.
+Philosopher has finished talking.
+Philosopher 2 picks up chopsticks.
+Philosopher 2 starts eating.
+Philosopher 5 finishes thinking.
+Philosopher 4 finishes eating.
+Philosopher 4 puts down chopsticks.
+Philosopher 4 starts thinking.
+Philosopher 5 picks up chopsticks.
+Philosopher 5 starts eating.
+Philosopher 2 finishes eating.
+Philosopher 2 puts down chopsticks.
+Philosopher 2 starts thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 5 finishes eating.
+Philosopher 5 puts down chopsticks.
+Philosopher 5 starts thinking.
+Philosopher 4 finishes thinking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 3 starts thinking.
+Philosopher 5 finishes thinking.
+Philosopher 3 finishes thinking.
+Philosopher 3 picks up chopsticks.
+Philosopher 3 starts eating.
+Philosopher 2 finishes thinking.
+Philosopher 3 finishes eating.
+Philosopher 3 puts down chopsticks.
+Philosopher 3 starts thinking.
+Philosopher 3 finishes thinking.
+All philosophers have left. System terminates normally.
+
+C:\Users\ypers\eclipse-workspace\Comp346_Assignment_3\src>
